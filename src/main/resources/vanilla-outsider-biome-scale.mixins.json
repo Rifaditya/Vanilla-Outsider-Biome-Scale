@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "net.vanillaoutsider.biomescale.mixin",
+    "compatibilityLevel": "JAVA_25",
+    "mixins": [
+        "MultiNoiseBiomeSourceMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "gamerule.biome_scale.scale_modifier": "Global Biome Scale Modifier",
+  "gamerule.biome_scale.scale_modifier.description": "Multiplier for biome sizes. 200 = 2x, 50 = 0.5x. Default: 200.",
+  "gamerule.category.biome_scale": "Vanilla Outsider: Biome Scale"
+}
