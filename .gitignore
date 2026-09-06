@@ -75,3 +75,8 @@ Doc/Marketing/
 buildOutputCleanup/
 loom-cache/
 vcs-1/
+# Platform Publisher API Token Security Vault
+*platform_tokens.json
+.agents/config/platform_tokens.json
+
+.wiki/

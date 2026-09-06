@@ -5,4 +5,5 @@ Open this file in your editor and change `[ ]` to `[x]` when you publish a versi
 
 ## 🚀 Published & Backlog Queue
 
-- [x] **`1.0.0+build.1`** (2026-02-27) - - Initial template release.
+- [x] **`1.0.0+build.1`** (SUPERSEDED)
+- [ ] **`1.0.0+26.1`** (Clean SemVer Rebuild)
