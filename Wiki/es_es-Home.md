@@ -34,8 +34,8 @@ El mod resuelve el problema de la "ensalada de frutas" de biomas (donde sabanas,
 
 | Versión Objetivo | Era de Generación | Estado | Fabric Loader | Fabric API | Entorno Java | Acceso Directo |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Minecraft 26.1** | Estándar Moderno | 🟢 Versión Activa | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentación MC 26.1|26.1-Home]] |
-| **Minecraft 26.3** | Snapshot Líder | 🟡 Archivo de Paridad | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentación MC 26.3|26.3-Home]] |
+| **Minecraft 26.1** | Estándar Moderno | 🟢 Versión Activa | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentación MC 26.1|es_es-26.1-Home]] |
+| **Minecraft 26.3** | Snapshot Líder | 🟡 Archivo de Paridad | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentación MC 26.3|es_es-26.3-Home]] |
 
 ---
 
@@ -56,8 +56,8 @@ El mod resuelve el problema de la "ensalada de frutas" de biomas (donde sabanas,
 
 ## 📚 Guías Universales para Desarrolladores y Administradores
 
-* [[Matriz de Compatibilidad de Versiones|Version-Compatibility]] — Ciclo de soporte, cadenas de herramientas y requisitos de Java.
-* [[Configuración y Compilación de Desarrollo|Developer-Setup-and-Building]] — Configuración de entorno, comandos de compilación Loom Gradle y pruebas.
+* [[Matriz de Compatibilidad de Versiones|es_es-Version-Compatibility]] — Ciclo de soporte, cadenas de herramientas y requisitos de Java.
+* [[Configuración y Compilación de Desarrollo|es_es-Developer-Setup-and-Building]] — Configuración de entorno, comandos de compilación Loom Gradle y pruebas.
 
 ---
 

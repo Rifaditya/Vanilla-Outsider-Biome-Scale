@@ -34,8 +34,8 @@ O mod resolve o problema da "salada de frutas" de biomas (onde savanas, badlands
 
 | Versão Alvo | Era | Status | Fabric Loader | Fabric API | Ambiente Java | Acesso Rápido |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Minecraft 26.1** | Padrão Moderno | 🟢 Versão Ativa | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentação MC 26.1|26.1-Home]] |
-| **Minecraft 26.3** | Snapshot Líder | 🟡 Arquivo de Paridade | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentação MC 26.3|26.3-Home]] |
+| **Minecraft 26.1** | Padrão Moderno | 🟢 Versão Ativa | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentação MC 26.1|pt_br-26.1-Home]] |
+| **Minecraft 26.3** | Snapshot Líder | 🟡 Arquivo de Paridade | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentação MC 26.3|pt_br-26.3-Home]] |
 
 ---
 
@@ -56,8 +56,8 @@ O mod resolve o problema da "salada de frutas" de biomas (onde savanas, badlands
 
 ## 📚 Guias Universais para Desenvolvedores e Administradores
 
-* [[Matriz de Compatibilidade de Versões|Version-Compatibility]] — Ciclo de suporte, ferramentas e requisitos Java.
-* [[Configuração e Compilação para Desenvolvedores|Developer-Setup-and-Building]] — Configuração do JDK 25, comandos Loom Gradle e testes.
+* [[Matriz de Compatibilidade de Versões|pt_br-Version-Compatibility]] — Ciclo de suporte, ferramentas e requisitos Java.
+* [[Configuração e Compilação para Desenvolvedores|pt_br-Developer-Setup-and-Building]] — Configuração do JDK 25, comandos Loom Gradle e testes.
 
 ---
 

@@ -80,3 +80,7 @@ vcs-1/
 .agents/config/platform_tokens.json
 
 .wiki/
+
+desktop.ini
+*/desktop.ini
+**/desktop.ini

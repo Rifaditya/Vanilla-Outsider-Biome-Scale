@@ -34,8 +34,8 @@ Le mod résout le problème de la « salade de fruits » de biomes — où savan
 
 | Version Cible | Ère | Statut | Fabric Loader | Fabric API | Exécution Java | Accès Rapide |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Minecraft 26.1** | Standard Moderne | 🟢 Version Active | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentation MC 26.1|26.1-Home]] |
-| **Minecraft 26.3** | Snapshot Leader | 🟡 Archive de Parité | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentation MC 26.3|26.3-Home]] |
+| **Minecraft 26.1** | Standard Moderne | 🟢 Version Active | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Documentation MC 26.1|fr_fr-26.1-Home]] |
+| **Minecraft 26.3** | Snapshot Leader | 🟡 Archive de Parité | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Documentation MC 26.3|fr_fr-26.3-Home]] |
 
 ---
 
@@ -56,8 +56,8 @@ Le mod résout le problème de la « salade de fruits » de biomes — où savan
 
 ## 📚 Guides universels pour développeurs et administrateurs
 
-* [[Matrice de compatibilité des versions|Version-Compatibility]] — Cycle de support, environnement d'outils et exigences Java.
-* [[Installation et compilation pour développeurs|Developer-Setup-and-Building]] — Configuration JDK 25, étapes Loom Gradle et tests.
+* [[Matrice de compatibilité des versions|fr_fr-Version-Compatibility]] — Cycle de support, environnement d'outils et exigences Java.
+* [[Installation et compilation pour développeurs|fr_fr-Developer-Setup-and-Building]] — Configuration JDK 25, étapes Loom Gradle et tests.
 
 ---
 

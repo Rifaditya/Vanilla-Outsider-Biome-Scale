@@ -34,8 +34,8 @@ Die Mod behebt das bekannte „Obstsalat-Problem“ – bei dem Savanne, Ödland
 
 | Zielversion | Ära | Wartungsstatus | Fabric Loader | Fabric API | Java-Laufzeit | Schnellzugriff |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Minecraft 26.1** | Moderner Standard | 🟢 Aktiv unterstützt | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 MC 26.1 Dokumentation|26.1-Home]] |
-| **Minecraft 26.3** | Moderner Snapshot | 🟡 Paritäts-Archiv | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 MC 26.3 Dokumentation|26.3-Home]] |
+| **Minecraft 26.1** | Moderner Standard | 🟢 Aktiv unterstützt | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 MC 26.1 Dokumentation|de_de-26.1-Home]] |
+| **Minecraft 26.3** | Moderner Snapshot | 🟡 Paritäts-Archiv | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 MC 26.3 Dokumentation|de_de-26.3-Home]] |
 
 ---
 
@@ -56,8 +56,8 @@ Die Mod behebt das bekannte „Obstsalat-Problem“ – bei dem Savanne, Ödland
 
 ## 📚 Leitfäden für Entwickler & Server-Administratoren
 
-* [[Versionskompatibilitäts-Matrix|Version-Compatibility]] — Support-Lebenszyklus, Toolchain und Java-Anforderungen.
-* [[Entwickler-Setup und Kompilierung|Developer-Setup-and-Building]] — JDK 25 Einrichtung, Loom-Gradle-Builds und Tests.
+* [[Versionskompatibilitäts-Matrix|de_de-Version-Compatibility]] — Support-Lebenszyklus, Toolchain und Java-Anforderungen.
+* [[Entwickler-Setup und Kompilierung|de_de-Developer-Setup-and-Building]] — JDK 25 Einrichtung, Loom-Gradle-Builds und Tests.
 
 ---
 

@@ -34,8 +34,8 @@ Mod ini menuntaskan masalah "salad buah" bioma Minecraft yang terkenal—di mana
 
 | Versi Target | Era Generasi | Status Dukungan | Fabric Loader | Fabric API | Lingkungan Java | Akses Cepat |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Minecraft 26.1** | Standar Modern | 🟢 Rilis Aktif | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Dokumentasi MC 26.1|26.1-Home]] |
-| **Minecraft 26.3** | Snapshot Unggulan | 🟡 Arsip Paritas | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Dokumentasi MC 26.3|26.3-Home]] |
+| **Minecraft 26.1** | Standar Modern | 🟢 Rilis Aktif | `>=0.19.1` | `0.145.4+26.1.2` | Java 25 | [[👉 Dokumentasi MC 26.1|id_id-26.1-Home]] |
+| **Minecraft 26.3** | Snapshot Unggulan | 🟡 Arsip Paritas | `>=0.19.3` | `0.156.1+26.3` | Java 25 | [[👉 Dokumentasi MC 26.3|id_id-26.3-Home]] |
 
 ---
 
@@ -56,8 +56,8 @@ Mod ini menuntaskan masalah "salad buah" bioma Minecraft yang terkenal—di mana
 
 ## 📚 Panduan Pengembang & Administrator Server
 
-* [[Matriks Kompatibilitas Versi|Version-Compatibility]] — Siklus dukungan, konfigurasi toolchain, dan persyaratan Java.
-* [[Pengaturan & Kompilasi Pengembang|Developer-Setup-and-Building]] — Panduan JDK 25, kompilasi Loom Gradle, dan verifikasi pengujian.
+* [[Matriks Kompatibilitas Versi|id_id-Version-Compatibility]] — Siklus dukungan, konfigurasi toolchain, dan persyaratan Java.
+* [[Pengaturan & Kompilasi Pengembang|id_id-Developer-Setup-and-Building]] — Panduan JDK 25, kompilasi Loom Gradle, dan verifikasi pengujian.
 
 ---
 
