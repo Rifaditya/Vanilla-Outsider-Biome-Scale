@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Banner placeholder — replace URL when banner is uploaded -->
 <!-- ![Vanilla Outsider: Biome Scale Banner](https://example.com/banner.jpg) -->
@@ -15,7 +15,7 @@
 
 **Summary:** Organically stretches terrain to create vast, cohesive continents without clashes, solving the "fruit salad" biome problem with one click.
 
-**Active Version Policy:** I build **1 JAR for 1 Version**. I only update and maintain the latest active Minecraft version (e.g. when 26.3 is released, 26.2 is retired). No backports or legacy version maintenance. Please do not ask.
+**No Backports:** This mod targets **Minecraft 26.+**. Older versions are unsupported.
 
 > **"Respect the Player's Time, Not the Game's Rules."**
 
@@ -63,10 +63,9 @@ If you enjoy the **Instant Gratification** collection, consider fueling the next
 ---
 
 > [!IMPORTANT]
-> **📦 Modpack Permissions & Distribution:** You are free to include this mod in any modpack on any platform. However, the mod itself must be downloaded from its official distribution pages on **Modrinth** or **CurseForge**. Re-uploading or redistributing the mod jar file to third-party sites is strictly prohibited unless explicitly permitted by the creator.
-> 
-> **License & Forks:** Since the source code is licensed under **GNU GPLv3**, you are fully permitted to fork the repository, make modifications, build your own versions, and distribute them under the terms of the GPLv3. The prohibition on third-party redistribution applies exclusively to the official compiled releases/jars published by the original creator (Dasik/Rifaditya). Forks must be published as distinct projects, not direct re-uploads of official builds.
-
+> **Modpack Permissions:** You are free to include this mod in modpacks, **provided the modpack is hosted on the same platform** (e.g. Modrinth).
+>
+> **Cross-platform distribution is not permitted.** If you download this mod from Modrinth, your modpack must also be published on Modrinth.
 
 ---
 

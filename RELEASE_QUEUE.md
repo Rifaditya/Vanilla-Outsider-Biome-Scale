@@ -7,3 +7,4 @@ Open this file in your editor and change `[ ]` to `[x]` when you publish a versi
 
 - [x] **`1.0.0+build.1`** (SUPERSEDED)
 - [ ] **`1.0.0+26.1`** (Clean SemVer Rebuild)
+- [ ] **`1.0.0+26.3`** (Initial Minecraft 26.3 Port)

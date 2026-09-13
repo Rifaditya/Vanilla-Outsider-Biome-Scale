@@ -60,27 +60,8 @@ releases/
 # Build Logs
 build_log.txt
 build_log_utf8.txt
-*.log
+*log*
 
-Archive/
-Archive Jar of all versions/
-*.jar
-
-# Marketing & Hype
+# Marketing & Hype (Local Only)
 Doc/Marketing/
-*hype_*
 
-# Gradle caches
-9.3.0/
-buildOutputCleanup/
-loom-cache/
-vcs-1/
-# Platform Publisher API Token Security Vault
-*platform_tokens.json
-.agents/config/platform_tokens.json
-
-.wiki/
-
-desktop.ini
-*/desktop.ini
-**/desktop.ini

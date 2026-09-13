@@ -1,6 +1,7 @@
+// Copyright (C) 2026 Dasik (Rifaditya) | GNU GPLv3
 package net.vanillaoutsider.biomescale;
 
-// Verified against: GameRules.java (Snapshot 10 / 26.1.2)
+// Verified against: GameRules.java (26.3+)
 
 import net.dasik.social.api.gamerule.DynamicGameRuleManager;
 import net.minecraft.world.level.gamerules.GameRule;

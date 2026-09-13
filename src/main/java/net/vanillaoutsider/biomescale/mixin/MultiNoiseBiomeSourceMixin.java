@@ -1,6 +1,7 @@
+// Copyright (C) 2026 Dasik (Rifaditya) | GNU GPLv3
 package net.vanillaoutsider.biomescale.mixin;
 
-// Verified against: MultiNoiseBiomeSource.java (Snapshot 10 / 26.1.2)
+// Verified against: MultiNoiseBiomeSource.java (26.3-snapshot-6)
 
 import net.minecraft.world.level.biome.MultiNoiseBiomeSource;
 import net.vanillaoutsider.biomescale.BiomeScaleRules;

@@ -26,18 +26,10 @@
         "vanilla-outsider-biome-scale.mixins.json"
     ],
     "depends": {
-        "fabricloader": ">=0.19.1",
-        "minecraft": "*",
+        "fabricloader": ">=0.19.3",
+        "minecraft": ">=26.3-",
         "java": ">=25",
         "fabric-api": "*",
         "dasik-library": "*"
-    },
-    "custom": {
-        "modmenu": {
-            "links": {
-                "modmenu.donate": "https://ko-fi.com/dasikigaijin",
-                "modmenu.kofi": "https://ko-fi.com/dasikigaijin"
-            }
-        }
     }
 }
