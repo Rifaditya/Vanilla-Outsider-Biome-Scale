@@ -31,5 +31,11 @@
         "java": ">=25",
         "fabric-api": "*",
         "dasik-library": ">=1.9.0"
+    },
+    "custom": {
+        "modrinth": {
+            "projectId": "vanilla-outsider-biome-scale",
+            "slug": "vanilla-outsider-biome-scale"
+        }
     }
 }

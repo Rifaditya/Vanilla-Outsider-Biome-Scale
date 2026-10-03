@@ -1,11 +1,7 @@
-# 📋 Vanilla Outsider: Biome Scale Release Queue & Backlog
+# 📋 Vanilla Outsider: Biome Scale Release Queue (MC 26.3)
 
-This file tracks which built versions (from `/Archive/builds/`) have been manually uploaded to Modrinth/CurseForge.
-Open this file in your editor and change `[ ]` to `[x]` when you publish a version.
+This file tracks which built versions (from `/Archive/builds/`) have been uploaded to Modrinth/CurseForge.
 
 ## 🚀 Published & Backlog Queue
 
-- [x] **`1.0.0+build.1`** (SUPERSEDED)
-- [ ] **`1.0.0+26.1`** (Clean SemVer Rebuild)
-- [ ] **`1.0.0+26.2`** (Initial Minecraft 26.2 Port)
 - [ ] **`1.0.0+26.3`** (Initial Minecraft 26.3 Port)
